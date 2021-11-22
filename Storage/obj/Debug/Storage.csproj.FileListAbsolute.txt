@@ -1,0 +1,44 @@
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\Storage\bin\Debug\Storage.dll
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\Storage\bin\Debug\Storage.pdb
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\Storage\bin\Debug\DatabaseBroker.dll
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\Storage\bin\Debug\Domain.dll
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\Storage\bin\Debug\DatabaseBroker.pdb
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\Storage\bin\Debug\Domain.pdb
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\Storage\obj\Debug\Storage.csprojAssemblyReference.cache
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\Storage\obj\Debug\Storage.csproj.CopyComplete
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\Storage\obj\Debug\Storage.dll
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\Storage\obj\Debug\Storage.pdb
+C:\Users\Petar\Desktop\Seminarski\Storage\bin\Debug\Storage.dll
+C:\Users\Petar\Desktop\Seminarski\Storage\bin\Debug\Storage.pdb
+C:\Users\Petar\Desktop\Seminarski\Storage\bin\Debug\DatabaseBroker.dll
+C:\Users\Petar\Desktop\Seminarski\Storage\bin\Debug\Domain.dll
+C:\Users\Petar\Desktop\Seminarski\Storage\bin\Debug\DatabaseBroker.pdb
+C:\Users\Petar\Desktop\Seminarski\Storage\bin\Debug\Domain.pdb
+C:\Users\Petar\Desktop\Seminarski\Storage\obj\Debug\Storage.csprojAssemblyReference.cache
+C:\Users\Petar\Desktop\Seminarski\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+C:\Users\Petar\Desktop\Seminarski\Storage\obj\Debug\Storage.csproj.CopyComplete
+C:\Users\Petar\Desktop\Seminarski\Storage\obj\Debug\Storage.dll
+C:\Users\Petar\Desktop\Seminarski\Storage\obj\Debug\Storage.pdb
+C:\Users\Aleksa\Desktop\Seminarski\Storage\bin\Debug\Storage.dll
+C:\Users\Aleksa\Desktop\Seminarski\Storage\bin\Debug\Storage.pdb
+C:\Users\Aleksa\Desktop\Seminarski\Storage\bin\Debug\DatabaseBroker.dll
+C:\Users\Aleksa\Desktop\Seminarski\Storage\bin\Debug\Domain.dll
+C:\Users\Aleksa\Desktop\Seminarski\Storage\bin\Debug\DatabaseBroker.pdb
+C:\Users\Aleksa\Desktop\Seminarski\Storage\bin\Debug\Domain.pdb
+C:\Users\Aleksa\Desktop\Seminarski\Storage\obj\Debug\Storage.csprojAssemblyReference.cache
+C:\Users\Aleksa\Desktop\Seminarski\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+C:\Users\Aleksa\Desktop\Seminarski\Storage\obj\Debug\Storage.csproj.CopyComplete
+C:\Users\Aleksa\Desktop\Seminarski\Storage\obj\Debug\Storage.dll
+C:\Users\Aleksa\Desktop\Seminarski\Storage\obj\Debug\Storage.pdb
+C:\Users\Maki\Desktop\seminarski\Storage\bin\Debug\Storage.dll
+C:\Users\Maki\Desktop\seminarski\Storage\bin\Debug\Storage.pdb
+C:\Users\Maki\Desktop\seminarski\Storage\bin\Debug\DatabaseBroker.dll
+C:\Users\Maki\Desktop\seminarski\Storage\bin\Debug\Domain.dll
+C:\Users\Maki\Desktop\seminarski\Storage\bin\Debug\DatabaseBroker.pdb
+C:\Users\Maki\Desktop\seminarski\Storage\bin\Debug\Domain.pdb
+C:\Users\Maki\Desktop\seminarski\Storage\obj\Debug\Storage.csproj.AssemblyReference.cache
+C:\Users\Maki\Desktop\seminarski\Storage\obj\Debug\Storage.csproj.CoreCompileInputs.cache
+C:\Users\Maki\Desktop\seminarski\Storage\obj\Debug\Storage.csproj.CopyComplete
+C:\Users\Maki\Desktop\seminarski\Storage\obj\Debug\Storage.dll
+C:\Users\Maki\Desktop\seminarski\Storage\obj\Debug\Storage.pdb

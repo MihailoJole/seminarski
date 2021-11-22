@@ -1,0 +1,24 @@
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\Domain\bin\Debug\Domain.dll
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\Domain\bin\Debug\Domain.pdb
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\Domain\obj\Debug\Domain.dll
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\Domain\obj\Debug\Domain.pdb
+C:\Users\Petar\Desktop\Seminarski\Domain\bin\Debug\Domain.dll
+C:\Users\Petar\Desktop\Seminarski\Domain\bin\Debug\Domain.pdb
+C:\Users\Petar\Desktop\Seminarski\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\Petar\Desktop\Seminarski\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Petar\Desktop\Seminarski\Domain\obj\Debug\Domain.dll
+C:\Users\Petar\Desktop\Seminarski\Domain\obj\Debug\Domain.pdb
+C:\Users\Aleksa\Desktop\Seminarski\Domain\bin\Debug\Domain.dll
+C:\Users\Aleksa\Desktop\Seminarski\Domain\bin\Debug\Domain.pdb
+C:\Users\Aleksa\Desktop\Seminarski\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\Aleksa\Desktop\Seminarski\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Aleksa\Desktop\Seminarski\Domain\obj\Debug\Domain.dll
+C:\Users\Aleksa\Desktop\Seminarski\Domain\obj\Debug\Domain.pdb
+C:\Users\Maki\Desktop\seminarski\Domain\bin\Debug\Domain.dll
+C:\Users\Maki\Desktop\seminarski\Domain\bin\Debug\Domain.pdb
+C:\Users\Maki\Desktop\seminarski\Domain\obj\Debug\Domain.csproj.AssemblyReference.cache
+C:\Users\Maki\Desktop\seminarski\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+C:\Users\Maki\Desktop\seminarski\Domain\obj\Debug\Domain.dll
+C:\Users\Maki\Desktop\seminarski\Domain\obj\Debug\Domain.pdb

@@ -1,0 +1,36 @@
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\DatabaseBroker\bin\Debug\DatabaseBroker.dll
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\DatabaseBroker\bin\Debug\DatabaseBroker.pdb
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\DatabaseBroker\bin\Debug\Domain.dll
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\DatabaseBroker\bin\Debug\Domain.pdb
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CoreCompileInputs.cache
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CopyComplete
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\DatabaseBroker\obj\Debug\DatabaseBroker.dll
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\DatabaseBroker\obj\Debug\DatabaseBroker.pdb
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\DatabaseBroker\obj\Debug\DatabaseBroker.csprojAssemblyReference.cache
+C:\Users\Petar\Desktop\Seminarski\DatabaseBroker\bin\Debug\DatabaseBroker.dll
+C:\Users\Petar\Desktop\Seminarski\DatabaseBroker\bin\Debug\DatabaseBroker.pdb
+C:\Users\Petar\Desktop\Seminarski\DatabaseBroker\bin\Debug\Domain.dll
+C:\Users\Petar\Desktop\Seminarski\DatabaseBroker\bin\Debug\Domain.pdb
+C:\Users\Petar\Desktop\Seminarski\DatabaseBroker\obj\Debug\DatabaseBroker.csprojAssemblyReference.cache
+C:\Users\Petar\Desktop\Seminarski\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CoreCompileInputs.cache
+C:\Users\Petar\Desktop\Seminarski\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CopyComplete
+C:\Users\Petar\Desktop\Seminarski\DatabaseBroker\obj\Debug\DatabaseBroker.dll
+C:\Users\Petar\Desktop\Seminarski\DatabaseBroker\obj\Debug\DatabaseBroker.pdb
+C:\Users\Aleksa\Desktop\Seminarski\DatabaseBroker\bin\Debug\DatabaseBroker.dll
+C:\Users\Aleksa\Desktop\Seminarski\DatabaseBroker\bin\Debug\DatabaseBroker.pdb
+C:\Users\Aleksa\Desktop\Seminarski\DatabaseBroker\bin\Debug\Domain.dll
+C:\Users\Aleksa\Desktop\Seminarski\DatabaseBroker\bin\Debug\Domain.pdb
+C:\Users\Aleksa\Desktop\Seminarski\DatabaseBroker\obj\Debug\DatabaseBroker.csprojAssemblyReference.cache
+C:\Users\Aleksa\Desktop\Seminarski\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CoreCompileInputs.cache
+C:\Users\Aleksa\Desktop\Seminarski\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CopyComplete
+C:\Users\Aleksa\Desktop\Seminarski\DatabaseBroker\obj\Debug\DatabaseBroker.dll
+C:\Users\Aleksa\Desktop\Seminarski\DatabaseBroker\obj\Debug\DatabaseBroker.pdb
+C:\Users\Maki\Desktop\seminarski\DatabaseBroker\bin\Debug\DatabaseBroker.dll
+C:\Users\Maki\Desktop\seminarski\DatabaseBroker\bin\Debug\DatabaseBroker.pdb
+C:\Users\Maki\Desktop\seminarski\DatabaseBroker\bin\Debug\Domain.dll
+C:\Users\Maki\Desktop\seminarski\DatabaseBroker\bin\Debug\Domain.pdb
+C:\Users\Maki\Desktop\seminarski\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.AssemblyReference.cache
+C:\Users\Maki\Desktop\seminarski\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CoreCompileInputs.cache
+C:\Users\Maki\Desktop\seminarski\DatabaseBroker\obj\Debug\DatabaseBroker.csproj.CopyComplete
+C:\Users\Maki\Desktop\seminarski\DatabaseBroker\obj\Debug\DatabaseBroker.dll
+C:\Users\Maki\Desktop\seminarski\DatabaseBroker\obj\Debug\DatabaseBroker.pdb

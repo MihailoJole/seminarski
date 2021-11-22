@@ -1,0 +1,128 @@
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\bin\Debug\View.exe.config
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\bin\Debug\View.exe
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\bin\Debug\View.pdb
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\obj\Debug\View.FrmLogin.resources
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\obj\Debug\View.exe
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\obj\Debug\View.pdb
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\bin\Debug\Common.dll
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\bin\Debug\ControllerC.dll
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\bin\Debug\Domain.dll
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\bin\Debug\DatabaseBroker.dll
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\bin\Debug\Common.pdb
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\bin\Debug\ControllerC.pdb
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\bin\Debug\Domain.pdb
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\bin\Debug\DatabaseBroker.pdb
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\obj\Debug\View.FrmMain.resources
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\bin\Debug\Storage.dll
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\bin\Debug\Storage.pdb
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\bin\Debug\SystemOperations.dll
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\bin\Debug\SystemOperations.pdb
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\obj\Debug\View.UserControls.UCSaveUcesnik.resources
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\obj\Debug\View.UserControls.UCUpdateUcesnik.resources
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\obj\Debug\View.UserControls.UCDeleteUcesnik.resources
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\obj\Debug\View.UserControls.UCAddTim.resources
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\obj\Debug\View.UserControls.UCUpdateTim.resources
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\obj\Debug\View.UserControls.UCDeleteTim.resources
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\obj\Debug\View.UserControls.UCGetHakaton.resources
+C:\Users\Stefan Marinkovic\source\repos\Seminarski\View\obj\Debug\View.UserControls.UCSaveHakaton.resources
+C:\Users\Petar\Desktop\Seminarski\View\bin\Debug\View.exe.config
+C:\Users\Petar\Desktop\Seminarski\View\bin\Debug\View.exe
+C:\Users\Petar\Desktop\Seminarski\View\bin\Debug\View.pdb
+C:\Users\Petar\Desktop\Seminarski\View\bin\Debug\Common.dll
+C:\Users\Petar\Desktop\Seminarski\View\bin\Debug\ControllerC.dll
+C:\Users\Petar\Desktop\Seminarski\View\bin\Debug\Domain.dll
+C:\Users\Petar\Desktop\Seminarski\View\bin\Debug\Storage.dll
+C:\Users\Petar\Desktop\Seminarski\View\bin\Debug\SystemOperations.dll
+C:\Users\Petar\Desktop\Seminarski\View\bin\Debug\DatabaseBroker.dll
+C:\Users\Petar\Desktop\Seminarski\View\bin\Debug\Common.pdb
+C:\Users\Petar\Desktop\Seminarski\View\bin\Debug\ControllerC.pdb
+C:\Users\Petar\Desktop\Seminarski\View\bin\Debug\Domain.pdb
+C:\Users\Petar\Desktop\Seminarski\View\bin\Debug\Storage.pdb
+C:\Users\Petar\Desktop\Seminarski\View\bin\Debug\SystemOperations.pdb
+C:\Users\Petar\Desktop\Seminarski\View\bin\Debug\DatabaseBroker.pdb
+C:\Users\Petar\Desktop\Seminarski\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\Petar\Desktop\Seminarski\View\obj\Debug\View.FrmLogin.resources
+C:\Users\Petar\Desktop\Seminarski\View\obj\Debug\View.FrmMain.resources
+C:\Users\Petar\Desktop\Seminarski\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Petar\Desktop\Seminarski\View\obj\Debug\View.UserControls.UCAddTim.resources
+C:\Users\Petar\Desktop\Seminarski\View\obj\Debug\View.UserControls.UCDeleteTim.resources
+C:\Users\Petar\Desktop\Seminarski\View\obj\Debug\View.UserControls.UCDeleteUcesnik.resources
+C:\Users\Petar\Desktop\Seminarski\View\obj\Debug\View.UserControls.UCGetHakaton.resources
+C:\Users\Petar\Desktop\Seminarski\View\obj\Debug\View.UserControls.UCSaveHakaton.resources
+C:\Users\Petar\Desktop\Seminarski\View\obj\Debug\View.UserControls.UCSaveUcesnik.resources
+C:\Users\Petar\Desktop\Seminarski\View\obj\Debug\View.UserControls.UCUpdateTim.resources
+C:\Users\Petar\Desktop\Seminarski\View\obj\Debug\View.UserControls.UCUpdateUcesnik.resources
+C:\Users\Petar\Desktop\Seminarski\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\Petar\Desktop\Seminarski\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\Petar\Desktop\Seminarski\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\Petar\Desktop\Seminarski\View\obj\Debug\View.exe
+C:\Users\Petar\Desktop\Seminarski\View\obj\Debug\View.pdb
+C:\Users\Aleksa\Desktop\Seminarski\View\bin\Debug\View.exe.config
+C:\Users\Aleksa\Desktop\Seminarski\View\bin\Debug\View.exe
+C:\Users\Aleksa\Desktop\Seminarski\View\bin\Debug\View.pdb
+C:\Users\Aleksa\Desktop\Seminarski\View\bin\Debug\Common.dll
+C:\Users\Aleksa\Desktop\Seminarski\View\bin\Debug\ControllerC.dll
+C:\Users\Aleksa\Desktop\Seminarski\View\bin\Debug\Domain.dll
+C:\Users\Aleksa\Desktop\Seminarski\View\bin\Debug\Storage.dll
+C:\Users\Aleksa\Desktop\Seminarski\View\bin\Debug\SystemOperations.dll
+C:\Users\Aleksa\Desktop\Seminarski\View\bin\Debug\DatabaseBroker.dll
+C:\Users\Aleksa\Desktop\Seminarski\View\bin\Debug\Common.pdb
+C:\Users\Aleksa\Desktop\Seminarski\View\bin\Debug\ControllerC.pdb
+C:\Users\Aleksa\Desktop\Seminarski\View\bin\Debug\Domain.pdb
+C:\Users\Aleksa\Desktop\Seminarski\View\bin\Debug\Storage.pdb
+C:\Users\Aleksa\Desktop\Seminarski\View\bin\Debug\SystemOperations.pdb
+C:\Users\Aleksa\Desktop\Seminarski\View\bin\Debug\DatabaseBroker.pdb
+C:\Users\Aleksa\Desktop\Seminarski\View\obj\Debug\View.csprojAssemblyReference.cache
+C:\Users\Aleksa\Desktop\Seminarski\View\obj\Debug\View.FrmLogin.resources
+C:\Users\Aleksa\Desktop\Seminarski\View\obj\Debug\View.FrmMain.resources
+C:\Users\Aleksa\Desktop\Seminarski\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Aleksa\Desktop\Seminarski\View\obj\Debug\View.UserControls.UCAddTim.resources
+C:\Users\Aleksa\Desktop\Seminarski\View\obj\Debug\View.UserControls.UCDeleteTim.resources
+C:\Users\Aleksa\Desktop\Seminarski\View\obj\Debug\View.UserControls.UCDeleteUcesnik.resources
+C:\Users\Aleksa\Desktop\Seminarski\View\obj\Debug\View.UserControls.UCGetTakmicenje.resources
+C:\Users\Aleksa\Desktop\Seminarski\View\obj\Debug\View.UserControls.UCSaveTakmicenje.resources
+C:\Users\Aleksa\Desktop\Seminarski\View\obj\Debug\View.UserControls.UCSaveUcesnik.resources
+C:\Users\Aleksa\Desktop\Seminarski\View\obj\Debug\View.UserControls.UCUpdateTim.resources
+C:\Users\Aleksa\Desktop\Seminarski\View\obj\Debug\View.UserControls.UCUpdateUcesnik.resources
+C:\Users\Aleksa\Desktop\Seminarski\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\Aleksa\Desktop\Seminarski\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\Aleksa\Desktop\Seminarski\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\Aleksa\Desktop\Seminarski\View\obj\Debug\View.exe
+C:\Users\Aleksa\Desktop\Seminarski\View\obj\Debug\View.pdb
+C:\Users\Maki\Desktop\seminarski\View\bin\Debug\View.exe.config
+C:\Users\Maki\Desktop\seminarski\View\bin\Debug\View.exe
+C:\Users\Maki\Desktop\seminarski\View\bin\Debug\View.pdb
+C:\Users\Maki\Desktop\seminarski\View\bin\Debug\Common.dll
+C:\Users\Maki\Desktop\seminarski\View\bin\Debug\ControllerC.dll
+C:\Users\Maki\Desktop\seminarski\View\bin\Debug\Domain.dll
+C:\Users\Maki\Desktop\seminarski\View\bin\Debug\Storage.dll
+C:\Users\Maki\Desktop\seminarski\View\bin\Debug\SystemOperations.dll
+C:\Users\Maki\Desktop\seminarski\View\bin\Debug\DatabaseBroker.dll
+C:\Users\Maki\Desktop\seminarski\View\bin\Debug\Common.pdb
+C:\Users\Maki\Desktop\seminarski\View\bin\Debug\ControllerC.pdb
+C:\Users\Maki\Desktop\seminarski\View\bin\Debug\Domain.pdb
+C:\Users\Maki\Desktop\seminarski\View\bin\Debug\Storage.pdb
+C:\Users\Maki\Desktop\seminarski\View\bin\Debug\SystemOperations.pdb
+C:\Users\Maki\Desktop\seminarski\View\bin\Debug\DatabaseBroker.pdb
+C:\Users\Maki\Desktop\seminarski\View\obj\Debug\View.csproj.AssemblyReference.cache
+C:\Users\Maki\Desktop\seminarski\View\obj\Debug\View.FrmLogin.resources
+C:\Users\Maki\Desktop\seminarski\View\obj\Debug\View.FrmMain.resources
+C:\Users\Maki\Desktop\seminarski\View\obj\Debug\View.Properties.Resources.resources
+C:\Users\Maki\Desktop\seminarski\View\obj\Debug\View.UserControls.UCAddTim.resources
+C:\Users\Maki\Desktop\seminarski\View\obj\Debug\View.UserControls.UCDeleteTim.resources
+C:\Users\Maki\Desktop\seminarski\View\obj\Debug\View.UserControls.UCDeleteUcesnik.resources
+C:\Users\Maki\Desktop\seminarski\View\obj\Debug\View.UserControls.UCGetTakmicenje.resources
+C:\Users\Maki\Desktop\seminarski\View\obj\Debug\View.UserControls.UCSaveTakmicenje.resources
+C:\Users\Maki\Desktop\seminarski\View\obj\Debug\View.UserControls.UCSaveUcesnik.resources
+C:\Users\Maki\Desktop\seminarski\View\obj\Debug\View.UserControls.UCUpdateTim.resources
+C:\Users\Maki\Desktop\seminarski\View\obj\Debug\View.UserControls.UCUpdateUcesnik.resources
+C:\Users\Maki\Desktop\seminarski\View\obj\Debug\View.csproj.GenerateResource.cache
+C:\Users\Maki\Desktop\seminarski\View\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\Maki\Desktop\seminarski\View\obj\Debug\View.csproj.CopyComplete
+C:\Users\Maki\Desktop\seminarski\View\obj\Debug\View.exe
+C:\Users\Maki\Desktop\seminarski\View\obj\Debug\View.pdb
